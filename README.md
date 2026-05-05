@@ -1,6 +1,6 @@
 # Aerial Image Segmentation with PyTorch U-Net
 
-## Project Overview
+## Overview
 
 This project implements a binary semantic segmentation workflow for extracting road networks from aerial imagery using PyTorch. The notebook trains a U-Net based segmentation model to classify each pixel in an aerial image as either road or non-road, producing a single-channel binary mask aligned with the input image.
 
